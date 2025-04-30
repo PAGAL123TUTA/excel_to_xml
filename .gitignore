@@ -1,0 +1,27 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDEs and Editors
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Flask specific
+instance/
+.flaskenv
+
+# Heroku
+Procfile.txt
